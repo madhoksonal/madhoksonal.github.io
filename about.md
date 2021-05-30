@@ -13,4 +13,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[sm2381@scarletmail.rutgers.edu](mailto:email@domain.com)
+[sm2381@scarletmail.rutgers.edu](mailto:sm2381@scarletmail.rutgers.edu)
