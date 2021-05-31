@@ -12,7 +12,7 @@ Information about my projects.
 insert screen recorded version of it working here
 
 * Designing a library kiosk system where a user can add, remove, checkout, and return a book inside of a library (manually implemented array-based structure) in Java.
-* https://github.com/amorfati-s/Project1-213-
+* Link to Github here: https://github.com/amorfati-s/Project1-213-
 
 ### Payroll Processing System 
 * 
