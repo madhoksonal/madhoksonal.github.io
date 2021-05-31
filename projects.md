@@ -34,8 +34,7 @@ insert gif
 insert gif
 
 * Utilized code reuse to create RU Cafe app in Android Studio for mobile app version. 
->>>>>>> 07cb4a180ac402c97463d3ffdc172f70b5bfbe60
-*  More info on Github repo [here](https://github.com/amorfati-s/Project-5-213 "RUCafe Android Github Repo")
+* More info on Github repo [here](https://github.com/amorfati-s/Project-5-213 "RUCafe Android Github Repo")
 
 ### Contact me
 
