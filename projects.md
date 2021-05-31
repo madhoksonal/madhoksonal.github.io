@@ -1,3 +1,9 @@
+---
+layout: default
+title: projects
+permalink: /projects
+published: true
+---
 
 Information about my projects.
 
