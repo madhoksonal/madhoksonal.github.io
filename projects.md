@@ -7,7 +7,7 @@ published: true
 
 Information about my projects.
 
-### Library Kiosk (Java)
+### Library Kiosk (Java)> 
 
 insert gif
 
