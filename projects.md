@@ -26,7 +26,7 @@ insert gif
 insert gif
 
 * Implemented same payroll processing system except using JavaFX to create a GUI for the user. 
-* Link to Github repo [here](https://github.com/amorfati-s/Project-3-213 "Payroll Processing Github Repo JavaFX")
+* More info on Github repo [here](https://github.com/amorfati-s/Project-3-213 "Payroll Processing Github Repo JavaFX")
 
 ### RU Cafe Application in JavaFX (Java)
 
