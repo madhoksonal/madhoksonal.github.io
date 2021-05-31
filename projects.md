@@ -7,29 +7,30 @@ published: true
 
 Information about my projects.
 
-### Library Kiosk
+### Library Kiosk (Java)
 
 insert gif
 
 * Designing a library kiosk system where a user can add, remove, checkout, and return a book inside of a library (manually implemented array-based structure) in Java on the console.
 * Link to Github repo [here](https://github.com/amorfati-s/Project1-213- "Library Kiosk Project") 
 
-### Payroll Processing System 
+### Payroll Processing System (Java)
 
 insert gif
 
-* Developed a payroll processing system (manually implemented array-based struct- requiring polymorphism) to process payments for employees (part-time, full-time) where the user can add and remove an employee, calculate the payments for all employees, and set the hours worked for a part-time employee. The project was written in Java and runs on the console. 
+* Developed a payroll processing system (manually implemented array-based struct- requiring polymorphism) to process payments for employees (part-time, full-time) where the user can add and remove an employee, calculate the payments for all employees, and set the hours worked for a part-time employee. 
 * Link to Github repo [here](https://github.com/amorfati-s/Project2-213 "Project 2 Github Repo")
 
-### GUI version of Payroll Processing System in JavaFX
+### GUI version of Payroll Processing System in JavaFX (Java & Scene Builder software)
+* Implemented same payroll processing system except using JavaFX to create a GUI for the user. 
+* Link to Github repo here
+
+### RU Cafe Application in JavaFX (Java)
 * 
 
-### RU Cafe Application in JavaFX 
-* 
-
-### RU Cafe Application in Android Studio
+### RU Cafe Application in Android Studio (Java and Kotlin) 
 * 
 
 ### Contact me
 
-[sm2381@scarletmail.rutgers.edu](mailto:sm2381@scarletmail.rutgers.edu)
+[madhoksonal@gmail.com](mailto:madhoksonal@gmail.com)
