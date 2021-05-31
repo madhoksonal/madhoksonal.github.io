@@ -1,0 +1,51 @@
+I"L	<p>Information about my projects.</p>
+
+<h3 id="library-kiosk-java">Library Kiosk (Java)</h3>
+
+<p>insert gif</p>
+
+<ul>
+  <li>Designing a library kiosk system where a user can add, remove, checkout, and return a book inside of a library (manually implemented array-based structure) in Java on the console.</li>
+  <li>More info on Github repo <a href="https://github.com/amorfati-s/Project1-213-" title="Library Kiosk Project">here</a></li>
+</ul>
+
+<h3 id="payroll-processing-system-java">Payroll Processing System (Java)</h3>
+
+<p>insert gif</p>
+
+<ul>
+  <li>Developed a payroll processing system (manually implemented array-based struct- requiring polymorphism) to process payments for employees (part-time, full-time) where the user can add and remove an employee, calculate the payments for all employees, and set the hours worked for a part-time employee.</li>
+  <li>More info on Github repo <a href="https://github.com/amorfati-s/Project2-213" title="Payroll Processing Github Repo">here</a></li>
+</ul>
+
+<h3 id="payroll-processing-system-in-javafx-java--scene-builder-software">Payroll Processing System in JavaFX (Java &amp; Scene Builder software)</h3>
+
+<p>insert gif</p>
+
+<ul>
+  <li>Implemented same payroll processing system except using JavaFX to create a GUI for the user.</li>
+  <li>More info on Github repo <a href="https://github.com/amorfati-s/Project-3-213" title="Payroll Processing Github Repo JavaFX">here</a></li>
+</ul>
+
+<h3 id="ru-cafe-application-in-javafx-java">RU Cafe Application in JavaFX (Java)</h3>
+
+<p>insert gif</p>
+
+<ul>
+  <li>Software for RU Cafe to sell donuts and coffee with JavaFX. Project required 5 FXML files. User can order coffee(s), donut(s), add/delete items, display all orders, and add/delete orders.</li>
+  <li>More info on Github repo <a href="https://github.com/amorfati-s/Project-4-213" title="RUCafe JavaFX Github repo">here</a></li>
+</ul>
+
+<h3 id="ru-cafe-application-in-android-studio-java-and-kotlin">RU Cafe Application in Android Studio (Java and Kotlin)</h3>
+
+<p>insert gif</p>
+
+<ul>
+  <li>Utilized code reuse to create RU Cafe app in Android Studio for mobile app version.</li>
+  <li>More info on Github repo <a href="https://github.com/amorfati-s/Project-5-213" title="RUCafe Android Github Repo">here</a></li>
+</ul>
+
+<h3 id="contact-me">Contact me</h3>
+
+<p><a href="mailto:madhoksonal@gmail.com">madhoksonal@gmail.com</a></p>
+:ET
