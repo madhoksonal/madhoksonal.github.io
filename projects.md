@@ -26,14 +26,14 @@ insert gif
 insert gif
 
 * Implemented same payroll processing system except using JavaFX to create a GUI for the user. 
-* Link to Github repo here
+* Link to Github repo [here](https://github.com/amorfati-s/Project-3-213 "Payroll Processing Github Repo JavaFX")
 
 ### RU Cafe Application in JavaFX (Java)
 
 insert gif
 
 * Software for RU Cafe to sell donuts and coffee with JavaFX. Project required 5 FXML files. User can order coffee(s), donut(s), add/delete items, display all orders, and add/delete orders. 
-* More info on Github repo [here](https://github.com/amorfati-s/CS213_Project4 "RUCafe JavaFX Github repo")
+* More info on Github repo [here](https://github.com/amorfati-s/Project-4-213 "RUCafe JavaFX Github repo")
 
 ### RU Cafe Application in Android Studio (Java and Kotlin) 
 
