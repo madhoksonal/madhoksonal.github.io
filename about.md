@@ -5,11 +5,12 @@ permalink: /about/
 published: true
 ---
 
-Some information about you!
+some basic info about me 
+* i am sonal
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+more bio stuff
 
 ### Contact me
 
