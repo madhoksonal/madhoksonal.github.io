@@ -1,6 +1,6 @@
 ---
 published: true
 ---
-## first real post
+## Computer Architecture course (9 weeks) 
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Introduction to Computer Architecture:
