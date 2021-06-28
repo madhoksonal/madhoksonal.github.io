@@ -10,7 +10,7 @@ some basic info about me
 
 ### More Information
 
-more bio stuff
+Hobbies:
 
 ### Contact me
 
