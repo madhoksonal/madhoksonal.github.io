@@ -5,8 +5,7 @@ permalink: /about/
 published: true
 ---
 
-some basic info about me 
-* i am sonal
+My name is Sonal. I am a RU senior 
 
 ### More Information
 
