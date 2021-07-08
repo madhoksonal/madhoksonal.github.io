@@ -92,3 +92,7 @@ However, given all of the steps, know that it is normal to not feel well, to wan
 Until then, here is a visualization my friend Lia offered to me to remind myself of the space my body has to hold any feeling I am feeling (at that time it was anxiety). She asked me to imagine my stomach (where that pit forms when you're anxious) was as big as the galaxy. Then, she suggested that I turn my anxious feeling towards myself, someone else, or environment into a small spec within that galaxy. The visualization made me realize that I can handle anything that comes my way. I am not little nor weak. I have the space to hold and let go. 
 
 Empathy is not the enemy, and nor is the anxiety and distress it may bring along with it. During the lifelong process of understanding oneself and the world around us, I am certain we can all develop a healthy relationship with our emotions. I am certain we can always try to connect back to the present moment-- back into our heart’s core values, and back into who we truly are as pure, abundant, and strong human beings.
+
+
+Thanks for reading.
+Sonal
