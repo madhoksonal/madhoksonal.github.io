@@ -75,17 +75,18 @@ Respectfully exit the situation at any time and suggest other options of healthi
 **This is an example of an environment where I am not living in:** 
 If I am in a movie theater and it is making me anxious, I will:
 Not blame myself and breathe through it (I think most people don't want to be scared of something forever. Exposure therapy worked well for me. This is when you invite the environment in little doses). 
-Remind myself I can leave(This actually calms me down so easily sometimes. I'll forget I have the freedom and liberty to do what I want!). Respect your boundaries!
+Remind myself I can leave (This actually calms me down so easily sometimes. I'll forget I have the freedom and liberty to do what I want!). Respect your boundaries!
 Focus on the movie. Focus on the feeling of eating my snack. Connect back to my senses and identify at least 1 thing using each sense to ground myself. Or, I will purposefully wear something that brings me peace when I look at/wear/touch it. 
-Actively try to develop positive associations with the environment--taking a mental note that one bad experience does not mean every one will be the same.  
+Actively try to develop positive associations with the environment--taking a mental note that _one bad experience does not mean every one will be the same_.  
 
 **If I am living in the environment, these are some of my steps/questions:** 
-No quick judgements and going into a rabbit hole of self-pity (even though this is completely normal and I've done it countless times, I simply want to break the habit because it leads to me giving up on improvement).
+No quick judgements and going into a rabbit hole of self-pity (even though this is completely normal and I've done it countless times. I simply want to break the habit because it leads to me giving up on improvement).
 Can I improve relations with my environment? Clean it up? Invite a plant? Painting? 
 Can I improve relations with my parents, roommates, and significant other? Should we plan partner or team-building dates? Do I have hope it will change? Have I told them how I felt? Am I fearful or hiding something because of how they will respond? 
 Are there certain responses I can rehearse to say if I see them in order to respect my time and boundaries? (whether it is because I am busy, tired, etc) 
 If I cannot improve relations (for now, or maybe forever--depending on your situation), can I create a schedule for myself where I can do what I need to do (cook, laundry), without conflict while I plan my move? 
-Finally, after another introspection, use the responses and say them. Do what I need to do and what I think is best for me at that time. Sometimes laying low is best, and sometimes open discussion is best. (You know yourself best!) 
+Finally, after another introspection, compile the responses and move forward. 
+Sometimes laying low is best, and sometimes open discussion is best. (You know _yourself_ best!) 
 
 The goal is **not** to have an endless amount of game plans to prepare you for every situation. The goal is to help yourself see how you can break down any situation; it is to know **you** have control; it is to not feel helpless, but to develop a sense of **confidence** and **faith** in yourself; it is to **push** through. 
 
