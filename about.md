@@ -9,7 +9,7 @@ published: true
 
 ## Hello!
 
-My name is Sonal. I am a rising RU senior studying computer science with strong interests in the fields of mobile/web dev, bioinformatics, medicine, and finance. 
+My name is Sonal. I am a rising RU senior studying computer science with strong interests in the fields of mobile/web dev, bioinformatics, medicine/health, and finance. 
 Currently, I am involved in research at the [Sensory and Motor Integration Lab](https://sensorymotorintegrationlab.com) at RU and I love to learn. 
 
 If I am not reading or working on code- I am practicing yoga, lifting, or playing piano. 
@@ -25,5 +25,3 @@ Please contact me through email for any inquiries on my experience or prices for
 ## Contact me
 
 [madhoksonal@gmail.com](mailto:madhoksonal@gmail.com)
-
-
