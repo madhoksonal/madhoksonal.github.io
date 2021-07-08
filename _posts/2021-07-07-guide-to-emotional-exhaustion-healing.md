@@ -6,7 +6,7 @@ published: true
 
 _(Note: I am not licensed. This is all from my personal experience of understanding and collaboratively working with my close colleague: anxiety. This isn't a “one-size-fits-all” type of post. These methods have helped me, but may not be the best for you, right now. This post contains many introspective direct questions. Please honor your boundaries and be kind to yourself while reading.)_
 
-![moun.jpeg]({{site.baseurl}}/_posts/moun.jpeg)
+
 
 -------------------------------------
 
