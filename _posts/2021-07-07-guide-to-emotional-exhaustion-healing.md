@@ -70,11 +70,11 @@ Not blame myself (as this will stress me out more).
 Separate her emotions away from my own (possibly through a mental protective “wall”, “orb” visualization).
 Remind myself of my boundaries. I do not have to be sucked into being someone else's emotional tissue. 
 Respectfully exit the situation at any time and suggest other options of healthier communication (a letter, future scheduled meeting to address concerns). 
-5. OR, if I don't want to suggest another form of communication and I have the patience for our conversation, I will ask her if we can speak at the same level. Remind her that I want to help us both come to a compromise. This is when it’s best to find common ground and diffuse the situation a bit without losing integrity as a person, (ie.sacrificing a belief to not cause trouble/harm). 
+5. OR, if I don't want to suggest another form of communication and I have the patience for our conversation, I will ask her if we can speak at the same level. Remind her that I want to help us both come to a compromise. This is when it’s best to find common ground and diffuse the situation a bit without losing integrity as a person, (ie. sacrificing a belief to not cause trouble/harm). 
 
 **This is an example of an environment where I am not living in:** 
 If I am in a movie theater and it is making me anxious, I will:
-Not blame myself andbreathe through it(I think most people don't want to be scared of something forever. Exposure therapy worked well for me. This is when you invite the environment in little doses). 
+Not blame myself and breathe through it (I think most people don't want to be scared of something forever. Exposure therapy worked well for me. This is when you invite the environment in little doses). 
 Remind myself I can leave(This actually calms me down so easily sometimes. I'll forget I have the freedom and liberty to do what I want!). Respect your boundaries!
 Focus on the movie. Focus on the feeling of eating my snack. Connect back to my senses and identify at least 1 thing using each sense to ground myself. Or, I will purposefully wear something that brings me peace when I look at/wear/touch it. 
 Actively try to develop positive associations with the environment--taking a mental note that one bad experience does not mean every one will be the same.  
