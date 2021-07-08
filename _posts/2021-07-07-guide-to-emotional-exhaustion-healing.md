@@ -18,7 +18,7 @@ Though, opening one’s heart and thoughts can be scary. I envied those who were
 
 So, why does stress seem to intensify so quickly? Why is it not easy to spot early on? These are some of the questions I ask during my reflections on my experiences with anxiety and stress. Is there any way to make it better?
 
-There is. And it begins with environment. 
+There is. And it begins with **environment**. 
 	
 Environment has been the tipping point for me to either crash into anxious and destructive thoughts or to keep my spirits lifted. With empaths, their environment is vital to their state of being (this may be because they unconsciously place themselves into others’ shoes without realizing the toll it may be taking on their body). Whether one creates the “mental walls” or closes their eyes to connect back with your breath and your heart beat, there will still be times where it is difficult to maintain composure and the meter of stress will feel like it is broken.
 
