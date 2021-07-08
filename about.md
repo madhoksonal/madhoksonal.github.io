@@ -5,11 +5,15 @@ permalink: /about/
 published: true
 ---
 
-My name is Sonal. I am a RU senior 
+Hello! My name is Sonal. I am a rising RU senior studying computer science (B.S) with strong interests in the fields of mobile/web dev, bioinformatics, medicine, and finance. 
+Currently, I am involved in research at the Sensory and Motor Integration Lab at RU: https://sensorymotorintegrationlab.com and I love to learn. 
 
-### More Information
+If I am not reading I am either practicing yoga, lifting, or playing piano. 
+I enjoy photography and writing, so feel free to review my featured photography and/or come back soon to check out my thoughts in my upcoming blog on this website!
 
-Hobbies:
+
+
+Please contact me through email for any inquiries on my experience or prices for photoshoots and/or mobile/website development. 
 
 ### Contact me
 
