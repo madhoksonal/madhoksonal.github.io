@@ -2,13 +2,11 @@
 published: true
 ---
 ### A guide to recovering from emotional exhaustion as an empath 
-**(Part 1: Environment):
+**(Part 1: Environment):**
 
 _(Note: I am not licensed. This is all from my personal experience of understanding and collaboratively working with my close colleague: anxiety. This isn't a “one-size-fits-all” type of post. These methods have helped me, but may not be the best for you, right now. This post contains many introspective direct questions. Please honor your boundaries and be kind to yourself while reading.)_
 
--- 
-
---
+-------------------------------------
 
 I believe everyone has the capacity to have empathy. However, I am directing this post (when I refer to “empaths”) to those who feel hyper-sensitive or have found themselves to be more empathetic than sympathetic. I am offering general words of advice to deal with burnout caused by being overly empathetic and advocating for a balance between sympathy and empathy. 
 
