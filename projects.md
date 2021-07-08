@@ -34,4 +34,4 @@ published: true
 
 ### Contact me
 
-[madhoksonal@gmail.com](mailto:madhoksonal@gmail.com)
+[sm2381@scarletmail.rutgers.edu](mailto:sm2381@scarletmail.rutgers.edu)
