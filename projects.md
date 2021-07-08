@@ -5,7 +5,9 @@ permalink: /projects/
 published: true
 ---
 
-### Information about my projects.
+###
+
+Information about my projects.
 
 ### Library Kiosk (Java)
 
