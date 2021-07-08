@@ -5,49 +5,49 @@ published: true
 
 _(Note: I am not licensed. This is all from my personal experience of understanding and collaboratively working with my close colleague: anxiety. This isn't a “one-size-fits-all” type of post. These methods have helped me, but may not be the best for you, right now. This post contains many introspective direct questions. Please honor your boundaries and be kind to yourself while reading.)_
 
-	I believe everyone has the capacity to have empathy. However, I am directing this post (when I refer to “empaths”) to those who feel hyper-sensitive or have found themselves to be more empathetic than sympathetic. I am offering general words of advice to deal with burnout caused by being overly empathetic and advocating for a balance between sympathy and empathy. 
+I believe everyone has the capacity to have empathy. However, I am directing this post (when I refer to “empaths”) to those who feel hyper-sensitive or have found themselves to be more empathetic than sympathetic. I am offering general words of advice to deal with burnout caused by being overly empathetic and advocating for a balance between sympathy and empathy. 
 
-	Generally, throughout the empath's lifespan, there is the need to fulfill for others, to be indebted to others as if they are one’s kin. Though the act is honorable, it quickly leads an empath to disturbing their inner peace and, eventually, disturbing others around them. 
+Generally, throughout the empath's lifespan, there is the need to fulfill for others, to be indebted to others as if they are one’s kin. Though the act is honorable, it quickly leads an empath to disturbing their inner peace and, eventually, disturbing others around them. 
 
-	Empaths owe their heart to themselves. But, I think that statement can be hard to break down, no matter one’s age, experience, or awareness of oneself. Spending time listening to others, devotion to others’ drains the emotional and physical bodies. It is important to practice self-care methods such as meditation, yoga, journaling, therapy, time with family/friends, etc, in order to connect oneself back to their heart- back to their core values, their intuition, and into the present moment. 
+Empaths owe their heart to themselves. But, I think that statement can be hard to break down, no matter one’s age, experience, or awareness of oneself. Spending time listening to others, devotion to others’ drains the emotional and physical bodies. It is important to practice self-care methods such as meditation, yoga, journaling, therapy, time with family/friends, etc, in order to connect oneself back to their heart- back to their core values, their intuition, and into the present moment. 
 
-	Though, opening one’s heart and thoughts can be scary. I envied those who were able to open up in front of me so easily. However, when I reciprocated their actions I would refrain from saying too much—in efforts to lessen the burden of my thoughts. With this restraint, it was convenient to return inwards. But, without a healthy form of release, anxiety and stress eventually doubled. Then, the next thing I knew, I was a slave to my emotions- creating a mountain out of a molehill and crying over not being given the right utensil at a drive-thru Wendys. 
+Though, opening one’s heart and thoughts can be scary. I envied those who were able to open up in front of me so easily. However, when I reciprocated their actions I would refrain from saying too much—in efforts to lessen the burden of my thoughts. With this restraint, it was convenient to return inwards. But, without a healthy form of release, anxiety and stress eventually doubled. Then, the next thing I knew, I was a slave to my emotions- creating a mountain out of a molehill and crying over not being given the right utensil at a drive-thru Wendys. 
 
-	So, why does stress seem to intensify so quickly? Why is it not easy to spot early on? These are some of the questions I ask during my reflections on my experiences with anxiety and stress. Is there any way to make it better?
+So, why does stress seem to intensify so quickly? Why is it not easy to spot early on? These are some of the questions I ask during my reflections on my experiences with anxiety and stress. Is there any way to make it better?
 
-	There is. And it begins with **environment**. 
+There is. And it begins with environment. 
 	
 	Environment has been the tipping point for me to either crash into anxious and destructive thoughts or to keep my spirits lifted. With empaths, their environment is vital to their state of being (this may be because they unconsciously place themselves into others’ shoes without realizing the toll it may be taking on their body). Whether one creates the “mental walls” or closes their eyes to connect back with your breath and your heart beat, there will still be times where it is difficult to maintain composure and the meter of stress will feel like it is broken.
 
 	It feels like a loss of stability, shortness of breath, dizziness, tightness in the chest, frustration, anger, sadness bunched up altogether in a knot in the stomach, etc. It is a place where no one would like to stay long and an unpleasant experience to say the least. Though, when experiencing the feeling and or remembering it now, do you believe this experience of anxiety has happened in a consistent place? With a consistent person?
 
 	Before jumping to conclusions and blaming a person or environment entirely, focus on what in that environment may have caused the anxiety. 
-_Do you have negative associations linked to this environment? Why? 
+Do you have negative associations linked to this environment? Why? 
 Is it because of an overstimulation of our senses there? For example, is there too much 
 yelling or touching? 
 Is it what the person said that triggered the fight-flight response? 
 Is it the way they said it? 
 Is the person someone you did not want to disappoint? 
-Did they remind you of what you believe you may be lacking currently?_
+Did they remind you of what you believe you may be lacking currently? 
 
 	Questioning, though helpful, has its limitations as well. Sometimes questioning is not as anxiety-inducing if we view it as our inner-child’s curiosity to understand our ‘adult-self’ better. It can feel less anxious when we view the process of introspection as an opportunity to nurture the inner child-- because it is only through awareness (active questioning and listening), we are able to change. 
 
-	In addition, to aid in the possible discomfort of introspection, an important lesson I learned while studying yoga was Erich Schiffman's concept of 'push and yield'. To ‘push-and-yield’ means to persist until the point of discomfort and or resistance, then surrender to the feeling, breathe through the feeling, and make sure to not go past discomfort. You always stop if there is pain. Therefore, in questioning oneself, and becoming aware, it is important to practice push-and-yield with our thoughts. This is the **first step** to practicing compassion and gratitude to yourself and recovering from the emotional toll of burnout. 
+In addition, to aid in the possible discomfort of introspection, an important lesson I learned while studying yoga was Erich Schiffman's concept of 'push and yield'. To ‘push-and-yield’ means to persist until the point of discomfort and or resistance, then surrender to the feeling, breathe through the feeling, and make sure to not go past discomfort. You always stop if there is pain. Therefore, in questioning oneself, and becoming aware, it is important to practice push-and-yield with our thoughts. This is the first step to practicing compassion and gratitude to yourself and recovering from the emotional toll of burnout. 
 	
-	**Second step:** write down your inner questions. This is to limit the need to go down a questioning spiral in your brain. Circle the ones you want to focus on. 
+	Second step: write down your inner questions. This is to limit the need to go down a questioning spiral in your brain. Circle the ones you want to focus on. 
 
-	**Third step:** mindfully approach a question one at a time. There is no need to write a lengthy answer. Try to gain a basic understanding of yourself and how you feel in an environment or with others. 
+	Third step: mindfully approach a question one at a time. There is no need to write a lengthy answer. Try to gain a basic understanding of yourself and how you feel in an environment or with others. 
 
-	**Fourth step: **take a break. Close your eyes for three to five minutes or listen to a calming song. Decompress. Allow yourself to register and let go of the memory you re-lived when thinking about the triggering environment and/or person. 
+	Fourth step: take a break. Close your eyes for three to five minutes or listen to a calming song. Decompress. Allow yourself to register and let go of the memory you re-lived when thinking about the triggering environment and/or person. 
 
-	**Fifth step:** ask yourself if you have met your essential needs that day. 
+	Fifth step: ask yourself if you have met your essential needs that day. 
 Did you have proper rest? Proper meals? 
 Did you make time for your daily routine? 
 This is the most common tipping point for me.It is a lot less likely that I will have an anxiety attack or feel overwhelmed if I have slept enough, ate enough, and done a morning routine of exercise. Write down your thoughts.
 
 	Now, if you think it may be something deeper than simply meeting your essential needs, try to think of how the triggering environment or person plays a negative role in your experience. How did you play in it? Write down your thoughts again.
 
-	**Sixth step:** list on the paper what you liked in yourself (maybe the way you coped) and didn't like in yourself (it was hard to speak up for yourself) during that experience. 
+	Sixth step: list on the paper what you liked in yourself (maybe the way you coped) and didn't like in yourself (it was hard to speak up for yourself) during that experience. 
 What did you like and not like regarding the environment and/or person involved in the 
 situation? 
 Did the window in the corner of the room make you feel lighter? 
