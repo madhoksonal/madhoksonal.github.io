@@ -13,7 +13,7 @@ My name is Sonal. I am a rising RU senior studying computer science with strong 
 Currently, I am involved in research at the [Sensory and Motor Integration Lab](https://sensorymotorintegrationlab.com) at RU and I love to learn. 
 
 If I am not reading or working on code- I am practicing yoga, lifting, or playing piano. 
-I enjoy photography and writing, so feel free to review my featured photography and/or come back soon to check out my thoughts in my upcoming blog on this website!
+I enjoy photography and writing, so feel free to review my featured photography on the homepage and/or my thoughts in the blog tab above!
 
 
 ---
