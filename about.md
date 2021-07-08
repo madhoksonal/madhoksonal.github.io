@@ -21,4 +21,4 @@ Please contact me through email for any inquiries on my experience or prices for
 
 ## Contact me
 
-[sm2381@scarletmail.rutgers.edu](mailto:sm2381@scarletmail.rutgers.edu)
+[madhoksonal@gmail.com](mailto:madhoksonal@gmail.com)
