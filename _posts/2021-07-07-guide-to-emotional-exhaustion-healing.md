@@ -25,13 +25,13 @@ Environment has been the tipping point for me to either crash into anxious and d
 It feels like a loss of stability, shortness of breath, dizziness, tightness in the chest, frustration, anger, sadness bunched up altogether in a knot in the stomach, etc. It is a place where no one would like to stay long and an unpleasant experience to say the least. Though, when experiencing the feeling and or remembering it now, do you believe this experience of anxiety has happened in a consistent place? With a consistent person?
 
 Before jumping to conclusions and blaming a person or environment entirely, focus on what in that environment may have caused the anxiety. 
-Do you have negative associations linked to this environment? Why? 
+_Do you have negative associations linked to this environment? Why? 
 Is it because of an overstimulation of our senses there? For example, is there too much 
 yelling or touching? 
 Is it what the person said that triggered the fight-flight response? 
 Is it the way they said it? 
 Is the person someone you did not want to disappoint? 
-Did they remind you of what you believe you may be lacking currently? 
+Did they remind you of what you believe you may be lacking currently?_
 
 Questioning, though helpful, has its limitations as well. Sometimes questioning is not as anxiety-inducing if we view it as our inner-child’s curiosity to understand our ‘adult-self’ better. It can feel less anxious when we view the process of introspection as an opportunity to nurture the inner child-- because it is only through awareness (active questioning and listening), we are able to change. 
 
