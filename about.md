@@ -19,7 +19,7 @@ I enjoy photography and writing, so feel free to review my featured photography 
 
 Please contact me through email for any inquiries on my experience or prices for photoshoots, mobile/website development, yoga private lessons, and/or tutoring. 
 
-(https://docs.google.com/document/d/1KBFs5UBzbaA2xlVxGoSXuCR2lI6PY269GN3ZiEa-1JE/edit?usp=sharing)
+[Resume](https://docs.google.com/document/d/1ZBYJ2V5IuDqsxdOPZdlFkeiJiGkrYN5iYU5Q4M_5SqQ/edit?usp=sharing "Resume")
 
 ## Contact me
 
