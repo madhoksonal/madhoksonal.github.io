@@ -5,7 +5,6 @@ permalink: /about/
 published: true
 ---
 
-![me.jpg]({{site.baseurl}}/me.jpg)
 
 ## Hello!
 
