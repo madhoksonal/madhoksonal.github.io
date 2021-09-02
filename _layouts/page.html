@@ -2,22 +2,6 @@
 layout: default
 published: true
 ---
-
-<div id="gallery">
-  
-  <img src="me.jpg">
-  
-</div>
-
-<article class="page">
-
-  <h1>{{ page.title }}</h1>
-  
-  <div class="entry">
-    {{ content }}
-  </div>
-</article>
-
 <style>
   
     #gallery {
@@ -32,4 +16,20 @@ published: true
   
 </style>
 
+
+
+<article class="page">
+
+  <h1>{{ page.title }}</h1>
+  
+  <div id="gallery">
+  
+  <img src="me.jpg">
+  
+</div>
+  
+  <div class="entry">
+    {{ content }}
+  </div>
+</article>
 
