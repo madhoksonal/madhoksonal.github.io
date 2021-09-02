@@ -1,12 +1,29 @@
 ---
 layout: default
+published: true
 ---
 
 <article class="page">
 
   <h1>{{ page.title }}</h1>
+  
+  
 
   <div class="entry">
     {{ content }}
   </div>
 </article>
+
+<style>
+  
+    #gallery {
+   line-height:0;
+   -webkit-column-count:5; /* split it into 5 columns */
+   -webkit-column-gap:5px; /* give it a 5px gap between columns */
+   -moz-column-count:5;
+   -moz-column-gap:5px;
+   column-count:5;
+   column-gap:5px;
+}
+  
+</style>
