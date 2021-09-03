@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: art
 title: art
 permalink: /art/
 published: true
