@@ -1,8 +1,6 @@
 ---
 layout: page
-title: art
+title: Art
 permalink: /art/
 published: true
 ---
-
-
