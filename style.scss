@@ -107,7 +107,9 @@ strong, b {
 }
 
 img {
-  max-width: 100%;
+   width: 100% !important;
+   height: auto !important;
+   margin-bottom:5px; /* to match column gap */
 }
 
 // Fixes images in popup boxes from Google Translate
@@ -177,6 +179,7 @@ img {
 
   img {
     border-radius: 5px;
+    max-width: 100%;
   }
 }
 
