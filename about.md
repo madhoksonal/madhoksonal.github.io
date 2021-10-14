@@ -8,7 +8,7 @@ published: true
 
 ## Hello!
 
-My name is Sonal. I am a rising RU senior studying computer science with strong interests in the fields of mobile/web dev, bioinformatics, medicine/health, and finance. 
+My name is Sonal. I am a rising senior pursuing a Computer Science major at Rutgers University with a strong interest in data science in the biomedical and financial industries.
 Currently, I am involved in research at the [Sensory and Motor Integration Lab](https://sensorymotorintegrationlab.com) at RU and I love to learn. 
 
 If I am not reading or working on code- I am practicing yoga, lifting, or playing piano. 
